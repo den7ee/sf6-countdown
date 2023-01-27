@@ -1,0 +1,10 @@
+.title {
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+
+h1, p {
+    margin: 0;
+    padding: 0;
+}
