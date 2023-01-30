@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: center;
     margin: 2vh;
+    min-width: 5vh;
 }
 
 .counter-number {
@@ -14,6 +15,10 @@
     font-size: 1rem;
     font-weight: bold;
     text-align: center;
-    min-width: 4rem;
+    min-width: 0.1rem;
     margin: 0;
+}
+
+.counter-text {
+    font-size: smaller;
 }
